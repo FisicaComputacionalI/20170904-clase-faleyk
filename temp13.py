@@ -5,4 +5,4 @@ y=[0,0,0,0,0,0,0,1,1,1,1,0,2,0,0,0,0,0,0,1,1,1]
 pl.xlabel('anios de vida')
 pl.ylabel('numero de novios y mascotas')
 pl.plot(x,y,'ro')
-pl.savefig ('temp1.png')
+pl.savefig ('temp03.png')
